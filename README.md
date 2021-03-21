@@ -1,11 +1,6 @@
 # Credits
 The project was done by Daniel Chang and Ryan Mei for a final term project in April 2019.
 
-Prototype Drawing:
-![image](https://user-images.githubusercontent.com/27746994/111914909-33155a00-8a31-11eb-8e1d-58cbde96f19c.png)
-
-Final Application:
-![image](https://user-images.githubusercontent.com/27746994/111914890-2133b700-8a31-11eb-839b-b4b384f76c6b.png)
 
 
 # INSTRUCTIONS
@@ -21,6 +16,14 @@ These libraries include:
 * pyaudio* (must first install 'portaudio.h' via brew install portaudio)
 
 (If for some reason packages cannot be installed, try pip3 install ____)
+
+# GUI Mocks
+## Prototype
+![image](https://user-images.githubusercontent.com/27746994/111914909-33155a00-8a31-11eb-8e1d-58cbde96f19c.png)
+
+## Final submission
+![image](https://user-images.githubusercontent.com/27746994/111914890-2133b700-8a31-11eb-839b-b4b384f76c6b.png)
+
 
 # CMPT 365 Final Report
 ## Introduction
@@ -227,30 +230,30 @@ cognition and language production/comprehension, the closer we would get to a se
 human-to-computer interaction.
 
 ## References
-[1]R. Python, "The Ultimate Guide To Speech Recognition With Python – Real Python",
+* [1]R. Python, "The Ultimate Guide To Speech Recognition With Python – Real Python",
 Realpython.com , 2019. [Online]. Available:
 https://realpython.com/python-speech-recognition/. [Accessed: 08- Apr- 2019].
-[2]"Sound Pattern Recognition with Python", Medium , 2019. [Online]. Available:
+* [2]"Sound Pattern Recognition with Python", Medium , 2019. [Online]. Available:
 https://medium.com/@almeidneto/sound-pattern-recognition-with-python-9aff69edce5d.
 [Accessed: 08- Apr- 2019].
-[3]"Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning",
+* [3]"Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning",
 Medium , 2019. [Online]. Available:
 https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition
 -with-deep-learning-28293c162f7a. [Accessed: 08- Apr- 2019].
-[4]"Let's Build an Audio Spectrum Analyzer in Python! (pt. 3) Switching to PyQtGraph",
+* [4]"Let's Build an Audio Spectrum Analyzer in Python! (pt. 3) Switching to PyQtGraph",
 YouTube , 2019. [Online]. Available: https://www.youtube.com/watch?v=RHmTgapLu4s.
 [Accessed: 08- Apr- 2019].
-[5]"Let's Build an Audio Spectrum Analyzer in Python! (pt. 1) the waveform viewer.", YouTube ,
+* [5]"Let's Build an Audio Spectrum Analyzer in Python! (pt. 1) the waveform viewer.", YouTube ,
 2019. [Online]. Available: https://www.youtube.com/watch?v=AShHJdSIxkY. [Accessed: 08-
 Apr- 2019].
-[6]"Getting Started with Audio Manipulation in Python", CSHorde , 2019. [Online]. Available:
+* [6]"Getting Started with Audio Manipulation in Python", CSHorde , 2019. [Online]. Available:
 https://cshorde.wordpress.com/2014/09/05/start-audio-in-python/. [Accessed: 08- Apr- 2019].
-[7]"Audio Signals in Python", Inspiration Information , 2019. [Online]. Available:
+* [7]"Audio Signals in Python", Inspiration Information , 2019. [Online]. Available:
 http://myinspirationinformation.com/uncategorized/audio-signals-in-python/. [Accessed: 08-
 Apr- 2019].
-[8] D. Reshetnikov, R. Smith and N. Scozzaro, "Python change pitch of wav file", Stack Overflow ,
+* [8] D. Reshetnikov, R. Smith and N. Scozzaro, "Python change pitch of wav file", Stack Overflow ,
 2019. [Online]. Available:
 https://stackoverflow.com/questions/43963982/python-change-pitch-of-wav-file. [Accessed:
 09- Apr- 2019].
-[9] “Fast Fourier Transform”, Wikipedia , 2019. [Online]. Available:
+* [9] “Fast Fourier Transform”, Wikipedia , 2019. [Online]. Available:
 https://en.wikipedia.org/wiki/Fast_Fourier_transform [Accessed 09- Apr- 2019].
